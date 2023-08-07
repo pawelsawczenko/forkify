@@ -2,6 +2,8 @@
 
 Forkify is a small recipes finder app.
 
+Deploy: https://forkify-app-ps.netlify.app/
+
 ## Tools
 
 - JavaScript
