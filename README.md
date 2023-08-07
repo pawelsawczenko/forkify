@@ -9,4 +9,4 @@ Deploy: https://forkify-app-ps.netlify.app/
 - JavaScript
 - [API](https://forkify-api.herokuapp.com/v2)
 - HTML
-- SASS
+- SCSS
